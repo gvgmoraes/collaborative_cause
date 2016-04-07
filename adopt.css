@@ -1,0 +1,10 @@
+#slothpic{
+	height: 30%;
+	width: 85%;
+	margin: 0 auto;
+}
+
+#slothpic img{
+	max-width: 98%;
+	max-height: 98%;
+}
