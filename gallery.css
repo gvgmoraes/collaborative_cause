@@ -1,0 +1,15 @@
+
+.maincontainer{
+	background: green;
+	color: white;
+}
+
+.title{
+	background: green;
+	height: 80px;
+	text-align: center;
+	padding-top:10px;
+	color: white;
+
+}
+
