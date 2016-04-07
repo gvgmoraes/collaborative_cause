@@ -16,7 +16,6 @@ ul {
 	width: 200px;
 	background-color: #f1f1f1;
 	font-family: Verdana;
-	height: 1000px;
 }
 
 li a:hover {
@@ -42,6 +41,7 @@ img {
 article {
 	width: 900px;
 	padding: 10px;
+	font-family: Verdana;
 }
 
 footer {
