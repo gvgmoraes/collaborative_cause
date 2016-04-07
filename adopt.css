@@ -1,10 +1,35 @@
 #slothpic{
-	height: 30%;
-	width: 85%;
+	height: 15%;
+	width: 55%;
 	margin: 0 auto;
 }
 
 #slothpic img{
 	max-width: 98%;
-	max-height: 98%;
+	max-height: 90%;
 }
+
+#message, #forms{
+	height: 40%;
+	width: 55%;
+	margin: 0 auto;
+}
+
+#message p{
+	font-family: verdana;
+}
+
+ form{
+ 	font-size: 24px;
+ }
+
+ .fields{
+ 	width: 20%;
+ 	height: 1.2em;
+ 	margin-bottom: 5px;
+ }
+
+ #tell-us{
+ 	height: 4.5em;
+ 	width: 73%;
+ }
