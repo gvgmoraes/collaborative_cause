@@ -2,19 +2,10 @@
 .maincontainer{
 	background: green;
 	margin: 200px;
-	width:800px;
+	width:750px;
 	color: white;
 }
 
-.title{
-	background: green;
-	height: 80px;
-	margin-bottom:20px;
-	text-align: left;
-	padding:10px;
-	color: white;
-
-}
 
 .active {
 	background-color: #4CAF50;
@@ -48,9 +39,23 @@ img {
 	width: 35%;
 	padding-left: 50px;
 	margin-bottom:100px;
+	padding-right:50px;
 
 }
 
+header {
+	font-family: Verdana;
+	background-color: #4CAF50;
+	color: white;
+}
+
+article {
+	background: green;
+	width: 900px;
+	padding: 10px;
+	margin-left:200px;
+	font-family: Verdana;
+}
 footer {
 	background-color: #555;
 }
