@@ -1,6 +1,8 @@
 
 .maincontainer{
 	background: green;
+
+
 	color: white;
 }
 
@@ -13,7 +15,33 @@
 
 }
 
+.active {
+	background-color: #4CAF50;
+	color: white;
+}
+.wrapper {
+	float: left;
+}
+li a {
+	display: block;
+	color: #000;
+	padding: 8px 0 8px 16px;
+	text-decoration: none;
+}
 
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: #f1f1f1;
+	font-family: Verdana;
+}
+
+li a:hover {
+	background-color: #555;
+	color: white;
+}
 
 img {
 	width: 250px;
